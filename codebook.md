@@ -49,7 +49,7 @@ The id-variables:
 
 The measurements variables are the averages of the original measurements on the subject and activity. 
 The original names of the measurements are kept, only the name "Average" is put in front. 
-The explaination of the measurements can be found in the original dataset in the UCI HAR Dataset. The measurements are all averages of standardized measures in the range [-1,1]
+The explaination of the measurements is in the next paragraph and can also be found in the original files in the UCI HAR Dataset. The measurements are all averages of standardized measures in the range [-1,1]
 
  [3] "AveragetBodyAcc-mean()-X"          
  [4] "AveragetBodyAcc-mean()-Y"          
