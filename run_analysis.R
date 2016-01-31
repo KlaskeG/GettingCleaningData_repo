@@ -46,3 +46,4 @@ colnames(DF3)[3:length(names(DF3))]<-paste0("Average",names(DF3)[3:length(names(
 
 #write tidy data set to file
 write.csv(DF3,file="assignment week4.csv",row.names=FALSE)
+write.table(DF3,file="assignment week4.txt",row.names=FALSE) # asked format
